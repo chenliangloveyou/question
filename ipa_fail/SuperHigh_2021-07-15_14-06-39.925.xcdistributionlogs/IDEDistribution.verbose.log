@@ -1,0 +1,360 @@
+2021-07-15 06:06:39 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:39 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:42 +0000 [MT] Skipping reformat archive step by default.
+2021-07-15 06:06:42 +0000 [MT] Skipping reformat archive step. No reformatter selected for archive <DVTFilePath:0x17728f8d0:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive'>
+2021-07-15 06:06:43 +0000  IDEDistributionItem init <DVTFilePath:0x2f2187e50:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app/Frameworks/Noah.framework'>
+2021-07-15 06:06:43 +0000  IDEDistributionItem init <DVTFilePath:0x2f26a66a0:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app/PlugIns/NotificationServiceExtension.appex'>
+2021-07-15 06:06:43 +0000  IDEDistributionItem init <DVTFilePath:0x2f21afa80:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app/Frameworks/du.framework'>
+2021-07-15 06:06:43 +0000  IDEDistributionItem init <DVTFilePath:0x2f21d9a40:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app/Frameworks/SJSDK.framework'>
+2021-07-15 06:06:43 +0000  IDEDistributionItem init <DVTFilePath:0x2eb2dffe0:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app/Frameworks/WZZBMediaPlayer.framework'>
+2021-07-15 06:06:43 +0000  IDEDistributionItem init <DVTFilePath:0x2f21ee360:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app/Frameworks/dov.framework'>
+2021-07-15 06:06:43 +0000  IDEDistributionItem init <DVTFilePath:0x138e893f0:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app'>
+2021-07-15 06:06:43 +0000  Set distributionItems on context: (
+    "<IDEDistributionItem: 0x30b84c630; bundleID='com.gaotu100.superclass', path='<DVTFilePath:0x138e893f0:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x30b88f000; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x30b8942a0; name='Apple Development: Liang Chen (N6822UG5S2)', hash='7BD10AEA132A34299822AB4FB6B8AF23A2895C05', serialNumber='<DVTSigningCertificateSerialNumber: 0x30b893ce0>', certificateKinds='(\n    \"1.2.840.113635.100.6.1.12\",\n    \"1.2.840.113635.100.6.1.2\"\n), issueDate='2021-06-23 01:56:04 +0000''>', entitlements='{\n    \"application-identifier\" = \"CM8JF3A4UR.com.gaotu100.superclass\";\n    \"aps-environment\" = development;\n    \"com.apple.developer.applesignin\" =     (\n        Default\n    );\n    \"com.apple.developer.associated-domains\" =     (\n        \"applinks:gt12.top\",\n        \"applinks:gt10.top\",\n        \"applinks:www.gaotu100.com\",\n        \"applinks:gsx17.cn\",\n        \"applinks:gsx16.cn\"\n    );\n    \"com.apple.developer.networking.wifi-info\" = 1;\n    \"com.apple.developer.team-identifier\" = CM8JF3A4UR;\n    \"get-task-allow\" = 1;\n}', teamID='CM8JF3A4UR', identifier='com.gaotu100.superclass', executablePath='<DVTFilePath:0x17edc0f20:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app/SuperHigh'>', hardenedRuntime='0'>'>"
+)
+2021-07-15 06:06:43 +0000  [OPTIONAL] Found platform <DVTPlatform:0x13b713040:'com.apple.platform.iphoneos':<DVTFilePath:0x13b712ec0:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>> and cert <DVTSigningCertificate: 0x30b8942a0; name='Apple Development: Liang Chen (N6822UG5S2)', hash='7BD10AEA132A34299822AB4FB6B8AF23A2895C05', serialNumber='<DVTSigningCertificateSerialNumber: 0x30b8cae90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-23 01:56:04 +0000''> for <DVTFilePath:0x138e893f0:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app'>
+2021-07-15 06:06:43 +0000  [OPTIONAL] Profile <IDEEmbeddedProvisioningProfile 0x30b8caa80: name: dev_cl, UUID: 3c7a5de2-1529-4a68-9bd1-c04236158f6d, teamName: Beijing Gaotu Yunji Education Technology Co., Ltd., teamIdentifierPrefixes: (
+    CM8JF3A4UR
+), entitlements: {
+    "application-identifier" = "CM8JF3A4UR.com.gaotu100.superclass";
+    "aps-environment" = development;
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.associated-domains" = "*";
+    "com.apple.developer.default-data-protection" = NSFileProtectionComplete;
+    "com.apple.developer.icloud-container-development-container-identifiers" =     (
+    );
+    "com.apple.developer.icloud-container-identifiers" =     (
+    );
+    "com.apple.developer.icloud-services" = "*";
+    "com.apple.developer.networking.wifi-info" = 1;
+    "com.apple.developer.team-identifier" = CM8JF3A4UR;
+    "com.apple.developer.ubiquity-container-identifiers" =     (
+    );
+    "com.apple.developer.ubiquity-kvstore-identifier" = "CM8JF3A4UR.*";
+    "com.apple.security.application-groups" =     (
+    );
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "CM8JF3A4UR.*",
+        "com.apple.token"
+    );
+}, appIdentifierName: superclass, applicationIdentifierPrefixes: (
+    CM8JF3A4UR
+), dateCreated: 2021-06-23 02:22:48 +0000, dateExpired: 2022-06-23 02:22:48 +0000, certificateKinds: {(
+    "1.2.840.113635.100.6.1.2",
+    "1.2.840.113635.100.6.1.12"
+)}, certificateSHA1Hashes: {(
+    41BCE2F66F2ED5E0AFE95159E5DF0642C809BB0B,
+    891D8B13D7F1A8BE56A6839E87ADA269ABCF46BE,
+    7BD10AEA132A34299822AB4FB6B8AF23A2895C05,
+    7AE6FF077D0DD6788AAB5E3B187FFAE96081A9E9,
+    9B42AC5271ED6EC0CF4C75F5420810645B1BF8E9,
+    433B2F53B0D56F01621F93FE54CF535253FA4116,
+    3078C44AFEECB41728F8D96F44954889B99D71F6,
+    F2AEE3CED3ACEC7E798DEF0B3A15128E810BFB2F,
+    893F18E2D423DCDC593124BCE663C134BDF18409,
+    7BC450F924123D4B43567A68BD22122D55BCC0CF,
+    B301D91222DB9EAC728A6CCBC3D2F9B8C91C5FD3,
+    129F6845FC7585FE347A5B0AB1D2DED1AAC874EF,
+    F081CE63B2906B99C7A63F99AF7B5970D940ADBE,
+    F9D1B7ED66346B0D3165CB1164A2C3D3BC7168E1,
+    FC8982CBDBE0A834D4DD1E704DC1B38D3ABF422A,
+    596A7C4F84FD545C0BADAE9ECAF3C7EB7516FD47,
+    2F137C70026677F0213D90C3203B6FA553AFF289,
+    4FCA4A5A82C36996CF19CC597C994717132DF7B7,
+    7427842CAE131BD39038AEDD0BC885C41473B955,
+    40FDE7C21DCB3EA7D8F1B9548BF6B38BAD6E4079,
+    F499CC7235698FD9655F8DD5C8CC0AA1EB13F86E,
+    3CB43A6464B567D82CC132D9FC4A857755759987,
+    C530A4AED3A97C8D7B1B5B08C6F803459A18285D,
+    C0649979A70B87FADE2FCB43298F08C002F365E9,
+    1C38F9C4DE9EE1FE40119BC3C3EDDB2E5051FA2E,
+    3D14EBC94640C2A1A4D6EA6F8C5DEE4A23D34A97,
+    15007AE59C1C5C7BF2D18FD370C49740F015D06A,
+    8BE65FE0D9C4725A38C60A46898490E8836AB758,
+    A0ADADC90933F02FB7B5978A55B761F7FF0CB614,
+    AC0EAC1E449C515590C0FE89BB3EC341D99292CA,
+    C82E69AE51F7185808C751514D9D8E15CF049EFD,
+    F5DDBB4CC915E66EEE21F56FA8B3987D8463E9AF,
+    933F109D55D72D76B3913CFEAD8C3A27EFD6B99E,
+    49B76EFA7714EA37A65E288CB8B7E55495234387,
+    D0208599C90AE9079ECBF74C6BBF46A8E039341C,
+    EFF9CE7BD5946FED799DFD831C09D99847C7D7C4,
+    24EE2F4A47EC1689FE71DAFA5C4DEFF28686C0F1,
+    9E70AD3F9043E4DFAA1DE092A8B6C454E356E9D4,
+    A694AC2639C5CD501A99BE6EA669E7E366A970BB,
+    39A09BB9C1D8CB70D829DA770E599803C52708AF,
+    030821498DC38E7FC234D858DACA7CB52210D827,
+    6172FA313AA82B75BC595C6FABE22362B6C39097,
+    E7700259E740EA5E5A884323FD4C1731869799B4,
+    279D082F155AB89379BC440A773AEDC9744758F1,
+    C557BA28EF3CFE2979678FA27A97F81D71BA17DB,
+    C3884EDF787E463399E667AC59545B1C18AED210,
+    D9C89EB774DFCC99E143E2AF8A0A9EE51339CF0F,
+    F0654667B6D0B6DB724FEDAD5D4C90E7FDFE0507,
+    054A5D0AD6C02C6DC84DAA3BC524C76FAA7139DB,
+    F7155B5038F81F6679F28E907B95B977B5E379BC,
+    995EDFF9CCBB254BE359F6D2A32810749FEE5E68,
+    CD6C8DBBAE5400FDFA3A579E3EA04A0BEE6AA646,
+    D7B31B2D51C25FA44E7BEA60BE33D98977ECF53B,
+    3B7EABBB2DCC4B20A53912D31FE679E45EE2193D,
+    117BA825B796751D7C0ECD7357716FF403B5BDEB,
+    1C7748691F514683F32C2601ACAE5E8F662A99B9,
+    AB09E25F993D7E3AA6383884B469AE8514B90146,
+    D0D0630037EA679F0D9950B62877157679172895,
+    E38EA9B6D112004CB46E19E08BD6CE3127E0DADA,
+    6775D977A7EF5334ABD7EC2EB0300BE856CC9D1B,
+    69A856488CD780C49396593667952D367C7FDB7B,
+    A01E37213BF8B6D9F314A2B86F07234C6764790F,
+    C3BA494ECF7528EEBC208D62AA3018E3FF0FA539,
+    40B5563FDB632F9F5168C24D8C8480A7268D2E46,
+    23BEF4CA6BDEE3C701578ACD0E2AF1208D96BB44,
+    7E7F6C04A11E92E944286C6A43DDD6D0D116EC37,
+    15019E741C7838BFF9C86F7FA283A8E8A1737555,
+    85BCE6F49BBAE2110450F51A6EC77B5C64C73151,
+    8DB695D3444AAE93CF80EB2AD8ABC5AB250E0A1F,
+    DA9F25AB0AC6AF41B97A2A0EF6129701CA529615,
+    034BC0B6EB8ECBD871AE1668266B7088301F09E6,
+    E8C99E7B49BC82041A083B77C7E4C9AD7218F1AE
+)}, supportedUDIDs: {(
+    99ab168fdc62136676b76b2d380b91632836c7af,
+    4ae740d8566ce454e853d7cc1e7df30607890e59,
+    3189c083e63379e4e0ae6a156d4e3ce8fb2b4ebf,
+    bdba6b0288f884b7ff665dbc97973a2e3e2eb9f4,
+    "00008020-000c14820ad1002e",
+    "00008020-000431a8113b002e",
+    741cf8da23665aab476a149af2f90b5f6214505c,
+    "00008030-000c69e21153802e",
+    5b3098baaa71161b256af35081d3843d8e05245a,
+    "00008020-000e2d6c1e88002e",
+    7240d842236b8f134868fc60248c14607a98bc35,
+    ad6ebc1d7dfe1292236bc173dbfdb52f976c89a6,
+    2d9c9f7c6841f3db9921e10b4b194678fd5ef727,
+    280e24d6840ba7c64ade4ecbd393c955970e058b,
+    715dd3d7a2bec5b55a176efc9738ff664b9c8d6d,
+    "00008020-000505892ef1002e",
+    "00008020-001a08580ae1002e",
+    "00008020-001e70a92268002e",
+    8d80e691a4963c340fa54c45c9f10ba913cd4f9a,
+    "00008020-000674640e03802e",
+    "00008030-000619de2e04802e",
+    039f4a2cdc14b094c0f0a38a9864171471db91a0,
+    8e27ae264d469fb65758e53bff6a205f34f996f4,
+    a50b21c2448a32082233b63c9f39b0bc3fe8f513,
+    06cc1b1e1f4efa8302c9b39a449cbb5a5e7218d5,
+    0bf98e110c1e9e3ff167a9ddb2fb92284c60ed66,
+    "00008020-0005789e3484003a",
+    0110ce20bb83e67795e1dd72060cb7765d54fa43,
+    9f2a64de867bb7b97eebd2dcd996ed5382f01af7,
+    719580b3a66bf93336196d5a9922622516110f8c,
+    "00008027-000118e20231002e",
+    "00008030-000a241a0c20402e",
+    0aabbfd015eae20ae45d1effce649879646c6916,
+    "00008020-001e08a13c83002e",
+    c9c2571f90e450f1d868c5787fab472699c7fe5a,
+    488656a7e2ce5a11000c3946f10eaebdab431a60,
+    "00008027-000e091c3622002e",
+    "00008030-001224c12e98802e",
+    9860d98e65c4396d798cc9e43dd2c9a6f7f3f408,
+    f31300cf33d7ea3629200e02fdf2e165c82d1baa,
+    cd01acf8fdf8d57e8bb07cce1e4e52b28c86d886,
+    9492bd409f63bb30ab7cee8e2063ac798634ebca,
+    101cfa628db74b53c8ea17fe8dacddef77a50660,
+    ed4643bfcf644593f53c59b445c7efe034410559,
+    507a4110cbb2a25e0182ed98a65776e88517412e,
+    "00008020-00066c301a32002e",
+    f2673d5874e492b7f9f3c08607735236ba1172c5,
+    fc8a716997c407a0db01e0d9b72214f45d81b9bd,
+    847354d7a245b614ee46099cd178351020a65e2a,
+    8faf1e883ca840b4ebe5c94e57c6a838b6febaf3,
+    1c634670178e6ef1f009da8f55f793c86f6d66ae,
+    a2c1dee7505b80b86b958a430143cb1fa29a7aff,
+    d4fb6c956c5301878276134f40c53b8bbd777ea7,
+    9599a3c3c410ec0e9ffe0bda1c9e1f6b590e29d2,
+    "00008020-001e68312e2a002e",
+    "00008101-000a09e41131003a",
+    44ae3e36a6bc504e0fb30aaa252d7ef12d499ac9,
+    9826d3d524048b5a96661d79ac47cb12e3656c72,
+    "00008020-000b041e0e50003a",
+    a64b4d3fedf44fd3e54c53afa88a7bf5ebbac524,
+    "00008030-0018749c0200802e",
+    9e528fb69f22360e89008747516d8aa4d8a1de81,
+    8c293475fc24b1c6a653d42cccc76b24c17fcb9a,
+    "00008030-001628941ee2802e",
+    "00008020-00140d0434e1002e",
+    "00008020-0001549a2e02003a",
+    "00008027-0019218c0e11002e",
+    cf2b75e10e22f3f846948e858addb1b95468317b,
+    c41f29531f64caad984d1bc08c349efcfc892ff3,
+    123038f2d3a017b8464cf824de6a4141b110d4ff,
+    7e80acf64844cdd713e299df053d946525468e09,
+    3fdf4cd9cd91458f14b85479b665a3fab097f27d,
+    2e649d993717781614cd1123a333d0c1c7b87ef4,
+    "00008030-001e10143429802e",
+    "00008020-000e09280169002e",
+    541a64764c5919e420d38afe10dd60867e8920d1,
+    b0b064394b66d0bd6b608c220f2ca1012db862aa,
+    90044e772365e29704f031d7c333315a52acfe47,
+    bc796672770d7675927b8f7d63212349d6d886ee,
+    "00008030-0009048a2238802e",
+    4db277a91310646e60a96037f7dc60ebe879ec47,
+    3478aae7e94d7524402395b7dafc7443a2a1d2e5,
+    "00008101-000615a00c40001e",
+    "00008030-000169643440802e",
+    "00008030-001931a00ec0802e",
+    67a6010fdbe7f9639e31c0a038a4fd01becbe425,
+    1627a2441965f3cd278f049d28b5411b55594cd1,
+    3e947dd32a4b07e244b40f2c4081ffabf4a605c7,
+    b10d9b9d5d5d6f5b7fe0c14fab814c5c89e92f3b,
+    "00008020-0011684c22e1002e",
+    5861b675ac2c845fffd89e2bcab7600cb38119c6,
+    1e0200b1bf0e6e45c174b030568dd78e29f00802,
+    03904b247cc67ed5d0c8aeda4c669c91bd1edef1,
+    e42a3a3870dd3c434055dffe4d5678b09b49ea4b,
+    "00008030-000e2ce80e22802e",
+    b74053340eec350640a17441e64803fba4332783,
+    48b311b5f0901ff4b9edd980ecbdb280387d92ce,
+    5b9f09c0c01eb9f12b968affa0fc33ec43072ce1,
+    b6b2e9cdd55c9d50e9377db15e8174a2bb932725,
+    "00008020-00164dca1a78003a",
+    5187824cbb9e25608ab24d6587660567404861c3,
+    "00008020-00065c6c2243002e",
+    db00fe5cdaf7323b7c315e435532fd8bd79d7e84,
+    e9799db16eb15d0852b83333a0d6bff9629307b5,
+    b0eda2cd30cf8bc5f03c34650eca32588a0868c8,
+    "00008101-000154640af0001e",
+    "00008020-001c0812367a002e",
+    bbb144fc51aee1a96e175f64fb908eb41a55cf69,
+    "00008020-000355103c68002e",
+    5ce54ca830d69237877be1578f7ebd3b616f6154,
+    5207881ccd0df42525a86e04e0e6ffabae5e8d86,
+    "00008030-001965520e47802e",
+    f502b352489fec3c65331e84a42c2ee3e331f0aa,
+    "00008020-00161d863cba402e",
+    c41136a6299e1cd873e2d287bfe632e98392c411,
+    67df96c6a76731fc6bc3717ac7c470a4e75129f4,
+    "00008030-001644491e50802e",
+    "00008020-001939461a51002e",
+    "00008027-00127944140a002e",
+    c007d923b181ae6bfe159b4da96b784188d7c45f,
+    7147d8c45f6bb10533ca182377666487c06d7ba4,
+    c93673f39025118d6117442aa3a0c09dd11cfb9c,
+    0c71f2cc1c0fe25a8db7ce4e9587214b2701422e,
+    "00008030-0005788221d1802e",
+    95ae101f27b7b046a45ca6461d47bb4a161b6c8d,
+    "00008020-001209ee01f1002e",
+    df05bc3f54a3fb29baeb523b4461eecd1ef511c8,
+    58760b8153a657db5fbbdda874928ae17e5922fe,
+    "00008030-001a28dc3cf3802e",
+    "00008101-001d250c2e08001e",
+    f584685f23da38deef77308ea76393a1f02823bf,
+    3a6ee11cfa268084f9da4ec0c54a433283c1d104,
+    "00008020-001d75880139002e",
+    d8dc751459df39770b2a2888e80d172f365400cc,
+    5f2695f57b4ac1e18f25fa69b02155c7244d67ad,
+    8d6fa0ad1350d5d1dae75b3de2b5fd5cb50c7ea9,
+    f4da4a3036f3fd212d3d82a85de033aa9e3f70ff,
+    dfc54c5858b0fd44ddf616b1b59da791c4d26c5a,
+    "00008020-001878c23669002e",
+    "00008020-000239d81489002e",
+    996191c143309fcb92f44dd299ce2469d9c156a9,
+    "00008101-001e28d436e0001e",
+    403f67959b0443847c5de9c598d96c3c8992fa44,
+    26829954a96ad246903a4b9668934f0e69649fc2,
+    21597c44adc158a71893170578af2dfc1b0bd0a4,
+    "00008030-000e349622e3802e",
+    fa06728ad6926f5ea90b12acf1d718881283ec89,
+    92bfedfd6edf32ca6e1e23b383dc0fedfc38ed93
+)}, isUniversal: 0, isXcodeManaged: 0, platforms: {(
+    <DVTPlatform:0x14b682dc0:'com.apple.platform.watchos':<DVTFilePath:0x14b6b96e0:'/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform'>>,
+    <DVTPlatform:0x13b713040:'com.apple.platform.iphoneos':<DVTFilePath:0x13b712ec0:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>
+)}, filePath: <DVTFilePath:0x305826ca0:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app/embedded.mobileprovision'>> for <DVTFilePath:0x138e893f0:'/Users/chenliang/Library/Developer/Xcode/Archives/2021-07-13/SuperHigh 2021-7-13, 9.27 PM.xcarchive/Products/Applications/SuperHigh.app'> was not an automatic profile
+2021-07-15 06:06:44 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:44 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:44 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:44 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:44 +0000 [MT] Skipping reformat archive step by default.
+2021-07-15 06:06:44 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:44 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:45 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:45 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:45 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:45 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:45 +0000 [MT] Skipping reformat archive step by default.
+2021-07-15 06:06:45 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
+2021-07-15 06:06:45 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x2f1e8d0d0>,
+    <IDEDistributionMethodiOSAdHoc: 0x2eb663210>,
+    <IDEDistributionMethodiOSEnterprise: 0x2f1ed34b0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x2f1e5f770>
+)}
